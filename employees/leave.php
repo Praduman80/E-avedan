@@ -176,12 +176,12 @@
 
                                         <div class="form-group">
                                             <label for="example-date-input" class="col-form-label">Starting Date</label>
-                                            <input class="form-control" type="date" value="2020-03-05" data-inputmask="'alias': 'date'" required id="example-date-input" name="fromdate">
+                                            <input class="form-control" type="date" value="2022-03-05" data-inputmask="'alias': 'date'" required id="example-date-input" name="fromdate">
                                         </div>
 
                                         <div class="form-group">
                                             <label for="example-date-input" class="col-form-label">End Date</label>
-                                            <input class="form-control" type="date" value="2020-03-05" data-inputmask="'alias': 'date'" required id="example-date-input" name="todate">
+                                            <input class="form-control" type="date" value="2022-03-05" data-inputmask="'alias': 'date'" required id="example-date-input" name="todate">
                                         </div>
 
                                         <div class="form-group">
