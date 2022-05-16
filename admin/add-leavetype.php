@@ -40,7 +40,7 @@
     <link rel="stylesheet" href="../assets/css/metisMenu.css">
     <link rel="stylesheet" href="../assets/css/owl.carousel.min.css">
     <link rel="stylesheet" href="../assets/css/slicknav.min.css">
-    <link rel="icon" type="image/x-icon" href="assets\images\admin.jpg">
+    <link rel="icon" type="image/x-icon" href="../assets\images\admin.jpg">
     <!-- amchart css -->
     <link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
     <!-- Start datatable css -->
